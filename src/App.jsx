@@ -3,6 +3,7 @@ import './App.css'
 import Menu from './components/Menu/Menu'
 import logo from './assets/logoVenturelabs.png'
 import Cadastro2 from './components/Cadastro3/Cadastro3'
+import Tabela from './components/Tabela/Tabela'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,7 +13,7 @@ function App() {
       <Menu />
       <main>
         <img src={logo} alt="Logo Venture Labs" />
-        <Cadastro2 />
+        <Tabela />
       </main>
     </div>
   )

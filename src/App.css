@@ -1,5 +1,4 @@
 #root {
-  max-width: 1280px;
   height: 100%;
   text-align: center;
   min-height: 100vh;
@@ -12,7 +11,7 @@
 }
 
 main{
-  width: 75%;
+  width: 85%;
   height: max-content;
   display: flex;
   flex-direction: column;
