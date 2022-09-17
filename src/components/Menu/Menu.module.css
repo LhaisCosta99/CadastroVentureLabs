@@ -3,13 +3,11 @@ nav{
     flex-direction: column;
     background-color: rgb(41, 31, 78) ;
     height: 100vh;
-    padding: 20px;
-    width: 20%;
-    z-index: 1000;
+    width: 25%;
 }
 
 button{
-    margin: 2%;
+    margin: 5%;
     width: 90%;
     color: rgb(20, 20, 20);
 }
