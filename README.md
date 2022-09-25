@@ -1,7 +1,7 @@
 
 <h1 align="center"> CadastroVentureLabs </h1>
-<hr>
-##  Sobre 
+
+## :heavy_check_mark:  Sobre  :heavy_check_mark:
  Consiste na criação de um web app simples usando React.js. A aplicação contem menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
 
 ## :lock_with_ink_pen: Instalação da aplicação :lock_with_ink_pen:
