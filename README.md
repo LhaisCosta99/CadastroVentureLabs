@@ -1,9 +1,8 @@
 
 <h1 align="center"> CadastroVentureLabs </h1>
 <hr>
-
- >Consiste na criação de um web app simples usando React.js.
- A aplicação contem menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
+##  Sobre 
+ Consiste na criação de um web app simples usando React.js. A aplicação contem menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
 
 ## :lock_with_ink_pen: Instalação da aplicação :lock_with_ink_pen:
 
@@ -28,6 +27,9 @@ npm start
 ## :heavy_check_mark:  Rota de Aplicação  :heavy_check_mark
 ```/:Onde é feito todo cadastro.
 ```
+## :footprints: Link da hospedazem do site na Vercel :footprints:
+https://hotel-transilvania.vercel.app/
+
 ## :heavy_check_mark:  Requisitos  :heavy_check_mark:
 :small_blue_diamond: React (18.2.0) <br>
 :small_blue_diamond:  VITE (3.1.1) <br>
@@ -39,7 +41,3 @@ React Router Dom: Através desta biblioteca tornamos possível a interação ent
 React Dom: Para possibilitar o uso, teste e desenvolvimento da aplicação de forma visual e tempo real, este projeto conta com o uso da biblioteca React Dom a qual abre um servidore interno para executar a aplicação.
 
 Axios: Para rodar no navegador e no node.js com a mesma base de código, utilizamos o Axios implemetado na aplicação.
-
-<hr>
-
- > É um projeto fictício, sem registro de marca, desenvolvido pede forma independente para fins educacionais do módulo 5 do curso de Desenvolvimento Web da Resilia Educação. © 2022, todos os direitos reservados.
