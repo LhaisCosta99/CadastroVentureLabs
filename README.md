@@ -1,6 +1,9 @@
-<h1 align="center"> CadastroVentureLabs  💜</h1>
- <img class="logo-header" src="./assets/ventureLabsPaginaInicial.png" alt="">
 
+<h1 align="center"> CadastroVentureLabs </h1>
+<hr>
+
+ >Consiste na criação de um web app simples usando React.js.
+ A aplicação contem menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
 
 ## :lock_with_ink_pen: Instalação da aplicação :lock_with_ink_pen:
 
@@ -22,6 +25,9 @@ npm install ou npm i
 ```
 npm start
 ```
+## :heavy_check_mark:  Rota de Aplicação  :heavy_check_mark
+```/:Onde é feito todo cadastro.
+```
 ## :heavy_check_mark:  Requisitos  :heavy_check_mark:
 :small_blue_diamond: React (18.2.0) <br>
 :small_blue_diamond:  VITE (3.1.1) <br>
@@ -34,3 +40,6 @@ React Dom: Para possibilitar o uso, teste e desenvolvimento da aplicação de fo
 
 Axios: Para rodar no navegador e no node.js com a mesma base de código, utilizamos o Axios implemetado na aplicação.
 
+<hr>
+
+ > É um projeto fictício, sem registro de marca, desenvolvido pede forma independente para fins educacionais do módulo 5 do curso de Desenvolvimento Web da Resilia Educação. © 2022, todos os direitos reservados.
